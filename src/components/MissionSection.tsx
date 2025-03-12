@@ -1,5 +1,5 @@
 
-import { Cow, Leaf, Heart, Users } from "lucide-react";
+import { Heart, Leaf, Flower, Users } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 
 const MissionSection = () => {
@@ -15,7 +15,7 @@ const MissionSection = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <ValueCard 
-            icon={<Cow className="h-12 w-12 text-gauSeva-orange" />}
+            icon={<Flower className="h-12 w-12 text-gauSeva-orange" />}
             title="Cow Protection"
             description="We provide lifelong care and shelter to cows, recognizing their sacred status and intrinsic value."
           />
