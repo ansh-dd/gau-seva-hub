@@ -8,28 +8,28 @@ const testimonials = [
     id: 1,
     name: "Rajesh Sharma",
     role: "Volunteer",
-    image: "/images/testimonial-1.jpg",
+    image: "/images/testimonials/testimonial-1.jpg",
     quote: "Working with Gau Seva Hub has transformed my understanding of these sacred animals. The love and care they provide to each cow is truly inspiring."
   },
   {
     id: 2,
     name: "Priya Patel",
     role: "Cow Adopter",
-    image: "/images/testimonial-2.jpg",
+    image: "/images/testimonials/testimonial-2.jpg",
     quote: "Adopting Lakshmi through the program has been a blessing. The regular updates and ability to visit her brings such joy to our family. We're proud to support this noble cause."
   },
   {
     id: 3,
     name: "Arun Singh",
     role: "Local Farmer",
-    image: "/images/testimonial-3.jpg",
+    image: "/images/testimonials/testimonial-3.jpg",
     quote: "The organic farming workshops have revolutionized my approach to agriculture. Using cow-based inputs has improved my soil health and crop yields tremendously."
   },
   {
     id: 4,
     name: "Kavita Iyer",
     role: "Monthly Donor",
-    image: "/images/testimonial-4.jpg",
+    image: "/images/testimonials/testimonial-4.jpg",
     quote: "I've been supporting Gau Seva Hub for over three years now. The transparency in how they utilize donations and their dedication to cow welfare is commendable."
   }
 ];

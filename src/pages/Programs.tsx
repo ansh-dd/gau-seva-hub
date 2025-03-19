@@ -9,7 +9,7 @@ const Programs = () => {
     {
       id: "sanctuary",
       title: "Cow Sanctuary",
-      image: "/images/cow-shelter.jpg",
+      image: "/images/programs/cow-shelter.jpg",
       description: "Our sanctuary provides a safe haven for abandoned, sick, and elderly cows, ensuring they live with dignity and care. Each cow receives personalized attention, proper nutrition, and medical care to ensure their wellbeing throughout their lives.",
       features: [
         "24/7 veterinary care",
@@ -21,7 +21,7 @@ const Programs = () => {
     {
       id: "farming",
       title: "Organic Farming",
-      image: "/images/organic-farming.jpg",
+      image: "/images/programs/organic-farming.jpg",
       description: "Using traditional methods and cow-based inputs, we produce nutritious food while maintaining soil health and biodiversity. Our farming practices follow ancient Indian techniques that work in harmony with nature.",
       features: [
         "Cow dung-based fertilizers",

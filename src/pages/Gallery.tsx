@@ -10,84 +10,84 @@ import { Dialog, DialogContent } from "@/components/ui/dialog";
 const galleryImages = [
   {
     id: 1,
-    src: "/images/cow-shelter.jpg",
+    src: "/images/gallery/cow-shelter.jpg",
     alt: "Cow in sanctuary",
     category: "sanctuary",
     title: "Peaceful Sanctuary"
   },
   {
     id: 2,
-    src: "/images/organic-farming.jpg",
+    src: "/images/gallery/organic-farming.jpg",
     alt: "Organic farming field",
     category: "farming",
     title: "Organic Cultivation"
   },
   {
     id: 3,
-    src: "/images/education.jpg",
+    src: "/images/gallery/education.jpg",
     alt: "Educational workshop",
     category: "education",
     title: "Learning Together"
   },
   {
     id: 4,
-    src: "/images/cow-products.jpg",
+    src: "/images/gallery/cow-products.jpg",
     alt: "Cow products display",
     category: "products",
     title: "Traditional Products"
   },
   {
     id: 5,
-    src: "/images/cow-adoption.jpg",
+    src: "/images/gallery/cow-adoption.jpg",
     alt: "Cow adoption ceremony",
     category: "adoption",
     title: "Adoption Day"
   },
   {
     id: 6,
-    src: "/images/volunteer.jpg",
+    src: "/images/gallery/volunteer.jpg",
     alt: "Volunteers working",
     category: "volunteer",
     title: "Dedicated Volunteers"
   },
   {
     id: 7,
-    src: "/images/hero-cow.jpg",
+    src: "/images/gallery/hero-cow.jpg",
     alt: "Hero cow image",
     category: "sanctuary",
     title: "Cow Grazing"
   },
   {
     id: 8,
-    src: "/images/cow-shelter.jpg",
+    src: "/images/gallery/cow-shelter-2.jpg",
     alt: "Cow shelter",
     category: "sanctuary",
     title: "Our Shelters"
   },
   {
     id: 9,
-    src: "/images/organic-farming.jpg",
+    src: "/images/gallery/organic-farming-2.jpg",
     alt: "Farming activities",
     category: "farming",
     title: "Natural Farming"
   },
   {
     id: 10,
-    src: "/images/cow-adoption.jpg",
+    src: "/images/gallery/cow-adoption-2.jpg",
     alt: "Family with adopted cow",
     category: "adoption",
     title: "Family Connection"
   },
   {
     id: 11,
-    src: "/images/volunteer.jpg",
+    src: "/images/gallery/volunteer-2.jpg",
     alt: "International volunteers",
     category: "volunteer",
     title: "Global Community"
   },
   {
     id: 12,
-    src: "/images/education.jpg",
+    src: "/images/gallery/education-2.jpg",
     alt: "Children learning",
     category: "education",
     title: "Young Learners"

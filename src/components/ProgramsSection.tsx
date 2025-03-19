@@ -15,42 +15,42 @@ const ProgramsSection = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <ProgramCard 
-            image="/images/cow-shelter.jpg"
+            image="/images/programs/cow-sanctuary.jpg"
             title="Cow Sanctuary"
             description="Our sanctuary provides a safe haven for abandoned, sick, and elderly cows, ensuring they live with dignity and care."
             link="/programs#sanctuary"
           />
           
           <ProgramCard 
-            image="/images/organic-farming.jpg"
+            image="/images/programs/organic-farming.jpg"
             title="Organic Farming"
             description="Using traditional methods and cow-based inputs, we produce nutritious food while maintaining soil health and biodiversity."
             link="/programs#farming"
           />
           
           <ProgramCard 
-            image="/images/education.jpg"
+            image="/images/programs/education.jpg"
             title="Educational Workshops"
             description="Learn about cow protection, traditional farming, and sustainable living through our hands-on workshops and seminars."
             link="/programs#education"
           />
           
           <ProgramCard 
-            image="/images/cow-products.jpg"
+            image="/images/programs/cow-products.jpg"
             title="Cow Products"
             description="Ethically sourced cow products including milk, ghee, and cow-dung based items that support our protection efforts."
             link="/programs#products"
           />
           
           <ProgramCard 
-            image="/images/cow-adoption.jpg"
+            image="/images/programs/cow-adoption.jpg"
             title="Cow Adoption"
             description="Support a specific cow through our adoption program, receiving updates and the opportunity to visit your adopted cow."
             link="/programs#adoption"
           />
           
           <ProgramCard 
-            image="/images/volunteer.jpg"
+            image="/images/programs/volunteer.jpg"
             title="Volunteer Program"
             description="Join our community of dedicated volunteers who help with daily cow care, farm maintenance, and special events."
             link="/programs#volunteer"
