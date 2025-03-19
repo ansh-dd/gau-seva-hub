@@ -22,12 +22,9 @@ const Hero = () => {
         <p className="text-xl md:text-2xl text-white max-w-2xl mx-auto mb-10 leading-relaxed">
           Join our mission to provide shelter, care, and dignity to cows through sustainable practices and spiritual understanding.
         </p>
-        <div className="flex flex-col sm:flex-row justify-center gap-4">
+        <div className="flex justify-center">
           <Button asChild className="bg-gauSeva-orange hover:bg-gauSeva-brown text-white font-medium text-lg px-8 py-6">
             <Link to="/donate">Support Our Cause</Link>
-          </Button>
-          <Button asChild variant="outline" className="bg-transparent hover:bg-white/10 text-white border-white font-medium text-lg px-8 py-6">
-            <Link to="/about">Learn More</Link>
           </Button>
         </div>
       </div>
