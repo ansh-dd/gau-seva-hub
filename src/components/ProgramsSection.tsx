@@ -18,42 +18,42 @@ const ProgramsSection = () => {
             image="/images/cow-shelter.jpg"
             title="Cow Sanctuary"
             description="Our sanctuary provides a safe haven for abandoned, sick, and elderly cows, ensuring they live with dignity and care."
-            link="/programs/sanctuary"
+            link="/programs#sanctuary"
           />
           
           <ProgramCard 
             image="/images/organic-farming.jpg"
             title="Organic Farming"
             description="Using traditional methods and cow-based inputs, we produce nutritious food while maintaining soil health and biodiversity."
-            link="/programs/farming"
+            link="/programs#farming"
           />
           
           <ProgramCard 
             image="/images/education.jpg"
             title="Educational Workshops"
             description="Learn about cow protection, traditional farming, and sustainable living through our hands-on workshops and seminars."
-            link="/programs/education"
+            link="/programs#education"
           />
           
           <ProgramCard 
             image="/images/cow-products.jpg"
             title="Cow Products"
             description="Ethically sourced cow products including milk, ghee, and cow-dung based items that support our protection efforts."
-            link="/programs/products"
+            link="/programs#products"
           />
           
           <ProgramCard 
             image="/images/cow-adoption.jpg"
             title="Cow Adoption"
             description="Support a specific cow through our adoption program, receiving updates and the opportunity to visit your adopted cow."
-            link="/programs/adoption"
+            link="/programs#adoption"
           />
           
           <ProgramCard 
             image="/images/volunteer.jpg"
             title="Volunteer Program"
             description="Join our community of dedicated volunteers who help with daily cow care, farm maintenance, and special events."
-            link="/programs/volunteer"
+            link="/programs#volunteer"
           />
         </div>
         
