@@ -45,8 +45,8 @@ const Navbar = () => {
         </nav>
 
         <div className="hidden md:block">
-          <Button className="bg-gauSeva-orange hover:bg-gauSeva-brown text-white">
-            Donate Now
+          <Button asChild className="bg-gauSeva-orange hover:bg-gauSeva-brown text-white">
+            <Link to="/donate">Donate Now</Link>
           </Button>
         </div>
 
@@ -65,8 +65,8 @@ const Navbar = () => {
             <MobileNavLink href="/programs" text="Programs" onClick={toggleMenu} />
             <MobileNavLink href="/gallery" text="Gallery" onClick={toggleMenu} />
             <MobileNavLink href="/contact" text="Contact" onClick={toggleMenu} />
-            <Button className="bg-gauSeva-orange hover:bg-gauSeva-brown text-white w-full mt-4">
-              Donate Now
+            <Button asChild className="bg-gauSeva-orange hover:bg-gauSeva-brown text-white w-full mt-4">
+              <Link to="/donate" onClick={toggleMenu}>Donate Now</Link>
             </Button>
           </nav>
         </div>
